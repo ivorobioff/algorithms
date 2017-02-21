@@ -7,7 +7,7 @@ public class MergeSort {
 
     public static void main(String[] args) {
 
-        int[] input = { 100, 21, 8, 9, 61, 5, 2, 59, 12, 66, 42, 1};
+        int[] input = { 52, -1, 82, 4, 0, 72, 53, 100, -3, 82, 99, 52, 33, 21 };
 
         System.out.println(Arrays.toString(sort(input)));
     }
